@@ -7,7 +7,7 @@
 
 
 # Script
->> <img src="https://github.com/M-Rifat/Mobile_Application_Testing-Rail_Sheba_App/blob/main/Automation_Testing/Screenshots/Screenshot1.jpg height=80% width=80%"/>
+>> <img src="https://github.com/M-Rifat/Mobile_Application_Testing-Rail_Sheba_App/blob/main/Automation_Testing/Screenshots/Screenshot1.jpg" width="80%" height="80%"/>
 
 >> <img src="https://github.com/M-Rifat/Mobile_Application_Testing-Rail_Sheba_App/blob/main/Automation_Testing/Screenshots/Screenshot2.jpg"/>
 
